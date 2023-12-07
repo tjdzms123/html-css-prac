@@ -1,0 +1,56 @@
+body {
+  background-color: #c2d3de;
+}
+
+div,
+input,
+textarea {
+  box-sizing: border-box;
+}
+
+.cart-box {
+  margin: 50px 250px 0px;
+  width: 750px;
+}
+
+.cart-table {
+  border-collapse: collapse;
+  border: 1px solid #c2d3de;
+  border-radius: 10px;
+  background-color: white;
+  width: 100%;
+}
+
+.cart-table td,
+th {
+  padding: 20px;
+  /* border: 1px solid black; */
+}
+
+.b-line {
+  border-bottom: 2px solid #c2d3de;
+}
+
+.c-move {
+  text-align: center;
+}
+
+.navy-color {
+  color: navy;
+}
+
+.cart-bottom {
+  margin-top: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.cart-btn {
+  padding: 15px;
+  background: navy;
+  color: white;
+  border-radius: 7px;
+  font-size: 15px;
+}

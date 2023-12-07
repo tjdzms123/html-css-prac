@@ -1,0 +1,69 @@
+body,
+h3,
+h4,
+p {
+  margin: 0px;
+}
+
+div {
+  box-sizing: border-box;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.img-box {
+  margin-right: 30px;
+}
+
+.backcolor-skyblue {
+  background-color: #6fbaf8;
+}
+
+.color-skyblue {
+  color: #6fbaf8;
+}
+
+.skyblue-btn {
+  background-color: #6fbaf8;
+  color: white;
+  padding: 5px 20px;
+  border: none;
+  border-radius: 5px;
+}
+
+.left-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.profile-left {
+  border-right: 5px solid #f7f9fc;
+}
+
+.profile-right {
+  padding: 20px 40px;
+}
+
+.white-box {
+  background: white;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0.5px 0.5px 2px 1px #eee;
+}
+
+.skills-item {
+  border: 1px solid black;
+  border-radius: 15px;
+  padding: 5px 15px;
+  margin-right: 20px;
+}
+
+.signup-box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

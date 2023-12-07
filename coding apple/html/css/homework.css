@@ -1,0 +1,40 @@
+.navbar li {
+  display: inline-block;
+}
+
+.navbar a {
+  font-size: 16px;
+}
+
+.container {
+  width: 700px;
+  height: 200px;
+  margin: auto;
+  padding: 20px;
+}
+
+.textbox {
+  width: 70%;
+  height: 80%;
+  float: left;
+  padding: 5px;
+}
+
+.profileimg {
+  width: 10%;
+  float: left;
+  margin-right: 10px;
+}
+
+.content {
+  clear: both;
+}
+
+.imgbox {
+  width: 25%;
+  height: 80%;
+  float: right;
+  background-image: url('/lion.png');
+  background-size: cover;
+  background-position: center;
+}
