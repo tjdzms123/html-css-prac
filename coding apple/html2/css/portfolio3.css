@@ -1,0 +1,10 @@
+body {
+  margin: 0px;
+  display: flex;
+  flex-direction: row;
+}
+
+.sidebar {
+  height: 100vh;
+  background-color: navy;
+}
