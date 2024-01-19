@@ -40,6 +40,5 @@
 
 - 반응형 웹 디자인
 - SASS (Syntactically Awesome Stylesheets)
-- CSS Transformations
-- CSS Animations
+- CSS Transformations 및 Animations  
 - 기타
