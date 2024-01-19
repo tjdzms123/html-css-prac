@@ -1,4 +1,4 @@
-## HTML, CSS 연습 리포지토리
+## 코딩 애플 HTML, CSS 연습 리포지토리
 
 이 리포지토리는 HTML 및 CSS를 연습하기 위한 프로젝트입니다. 반응형 웹 디자인, SASS, 그리고 transform 및 animation 기술을 학습한 결과물을 담고 있습니다.
 
