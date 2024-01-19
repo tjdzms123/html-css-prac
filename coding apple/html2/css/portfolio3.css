@@ -8,3 +8,78 @@ body {
   height: 100vh;
   background-color: navy;
 }
+
+.wrap_nav {
+  width: 100%;
+}
+
+.nav {
+  width: 100%;
+}
+
+.nav-link {
+  position: relative;
+}
+
+.badge {
+  position: absolute;
+  top: 0px;
+  left: 15px;
+}
+
+.fa-bell {
+  width: 15px;
+}
+
+.contents {
+  padding: 25px;
+}
+
+.bluebadge {
+  border-radius: 50px;
+  background-color: skyblue;
+  width: 15%;
+  text-align: center;
+  color: white;
+}
+
+.input-animation {
+  transition: width 1s;
+}
+
+.input-animation:focus {
+  width: 350px;
+}
+
+.sidebar {
+  width: 150px;
+  height: 100vh;
+  background: #484bb3;
+  position: fixed;
+  z-index: 5;
+  color: white;
+  transition: all 0.5s;
+  transform: translateX(-100px);
+}
+
+.sidebar div {
+  margin: 12px 0px 0px 15px;
+}
+
+.content {
+  margin-left: 50px;
+}
+
+.sidebar:hover {
+  transition: all 0.5s;
+  transform: translateX(0px);
+}
+
+.sidebar i {
+  transition: all 0.5s;
+  transform: translateX(100px);
+}
+
+.sidebar:hover i {
+  transform: translateX(0px);
+} 
